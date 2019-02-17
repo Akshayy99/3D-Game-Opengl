@@ -1,0 +1,4 @@
+Scanning dependencies of target graphics_asgn1
+[  8%] Building CXX object CMakeFiles/graphics_asgn1.dir/main.cpp.o
+[ 16%] Linking CXX executable graphics_asgn1
+[100%] Built target graphics_asgn1
